@@ -1,0 +1,8 @@
+{
+  "name": "Varni Digital Growth Engine",
+  "description": "A high-end SaaS-style digital marketing agency website for Australian businesses focusing on predictable revenue systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
